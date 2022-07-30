@@ -1,2 +1,2 @@
 # DS-2-Ano
-Atividades referentes a mátéria "Desenvolvimento de Sistemas" - 2° ano, Desenvolvimento de Sistemas
+Atividades referentes a mátéria "Desenvolvimento de Sistemas" do 2° ano do curso "Desenvolvimento de Sistemas"
